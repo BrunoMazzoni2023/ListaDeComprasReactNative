@@ -8,5 +8,5 @@ $ yarn add @react-navigation/elements
 $ yarn add react-native-elements                   
 $ npm install --save react-native-vector-icons   
 $ npx react-native run-android                 
-[http://localhost:3000](http://localhost:3000).
+[http://localhost:3000](http://localhost:3000)
 
