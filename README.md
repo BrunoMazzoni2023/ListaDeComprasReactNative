@@ -1,8 +1,8 @@
- BIBLIOTECAS USADAS
-==============================
+BIBLIOTECAS USADAS
+
 REACT NAVIGATION     << REACT NAVIGATION >>
 yarn add @react-navigation/native
-----------------------------
+
 INSTALANDO DEPENDENCIAS EM UM PROJETO REACT NATIVE  << REACT NAVIGATION >>
 yarn add react-native-screens react-native-safe-area-context
 -----------------------------------------------
